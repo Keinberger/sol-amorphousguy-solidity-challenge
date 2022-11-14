@@ -14,7 +14,7 @@ const scriptsConfig = {
 const contractsConfig = {
     ETHPool: {
         name: "ETHPool",
-        args: { teamAddress: "0xD3DD405ACfE2F936A989DA9075AAC37AA6176426" },
+        args: { teamAddress: "" },
     },
 }
 
